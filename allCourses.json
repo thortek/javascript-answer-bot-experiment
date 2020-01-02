@@ -1,0 +1,2365 @@
+[
+  {
+    "id": 294965,
+    "name": "COMP-301R-601",
+    "account_id": 656,
+    "uuid": "wES7eEK34pNSAEsrfwygQHTclyNx5xgvKxc7ToSl",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": false,
+    "created_at": "2013-11-12T23:59:16Z",
+    "course_code": "COMP-301R",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 291,
+    "license": "private",
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_wES7eEK34pNSAEsrfwygQHTclyNx5xgvKxc7ToSl.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 33092,
+    "name": "DEV_DGM-2760_Anderson",
+    "account_id": 16,
+    "uuid": "b50434d01f42d03d5bbe16ca63f12d4ea367d369",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2011-06-29T22:18:34Z",
+    "course_code": "DGM-2760",
+    "default_view": "feed",
+    "root_account_id": 16,
+    "enrollment_term_id": 44,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_b50434d01f42d03d5bbe16ca63f12d4ea367d369.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "unpublished",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 33093,
+    "name": "DEV_DGM-3760_Anderson",
+    "account_id": 16,
+    "uuid": "f6d2f497c58361c905920f6619ff2fb015adb796",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2011-06-29T22:18:54Z",
+    "course_code": "DGM-3760",
+    "default_view": "feed",
+    "root_account_id": 16,
+    "enrollment_term_id": 44,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_f6d2f497c58361c905920f6619ff2fb015adb796.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "unpublished",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 280617,
+    "name": "Dev_Thor_Testbed",
+    "account_id": 657,
+    "uuid": "AGVTJmMPaHOKAuykfyI3hpLTxO87Xpy3bSTZOVaT",
+    "start_at": "2013-10-08T23:32:00Z",
+    "grading_standard_id": null,
+    "is_public": false,
+    "created_at": "2013-10-02T16:57:19Z",
+    "course_code": "Dev_Thor_Testbed",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 91,
+    "license": "private",
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_AGVTJmMPaHOKAuykfyI3hpLTxO87Xpy3bSTZOVaT.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "sis_course_id": "Dev_Thor_Testbed",
+    "integration_id": null,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 346480,
+    "name": "DEV152_DGM312G_Christensen",
+    "account_id": 3905,
+    "uuid": "RPNu8cFu0t4KTD48G1Vc0VLn1STh7SqdcO4Mrsy7",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": false,
+    "created_at": "2014-08-01T18:07:18Z",
+    "course_code": "DEV152_DGM312G",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 526,
+    "license": "private",
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_RPNu8cFu0t4KTD48G1Vc0VLn1STh7SqdcO4Mrsy7.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "unpublished",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 337410,
+    "name": "DGM-370R-001",
+    "account_id": 657,
+    "uuid": "BwAkZn3UIH1XUQNA5ICIybBkSkJXkcG0Sjlidraz",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2014-04-22T19:44:39Z",
+    "course_code": "DGM-370R",
+    "default_view": "feed",
+    "root_account_id": 16,
+    "enrollment_term_id": 460,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_BwAkZn3UIH1XUQNA5ICIybBkSkJXkcG0Sjlidraz.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 294804,
+    "name": "DGM-370R-I01",
+    "account_id": 657,
+    "uuid": "ipwPq1iSknGVh06BcGIlgAtaxMptmDHEAlXGWPwG",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2013-11-12T23:58:35Z",
+    "course_code": "DGM-370R",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 291,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_ipwPq1iSknGVh06BcGIlgAtaxMptmDHEAlXGWPwG.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 350888,
+    "name": "DGM-370R-I02",
+    "account_id": 657,
+    "uuid": "qks6S2MASm5BpgeobIZM90cfM31NJmRzXpW0Yumd",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2014-09-22T18:54:37Z",
+    "course_code": "DGM-370R",
+    "default_view": "feed",
+    "root_account_id": 16,
+    "enrollment_term_id": 461,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_qks6S2MASm5BpgeobIZM90cfM31NJmRzXpW0Yumd.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 497039,
+    "name": "DGM-370R-I03 | Spring 2020",
+    "account_id": 657,
+    "uuid": "IH5g4btRMW4sTkylo9e1fcwI8Hz6OXrvxqsBMeaJ",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2019-11-22T18:17:02Z",
+    "course_code": "DGM-370R-I03 | Spring 2020",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 466,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_IH5g4btRMW4sTkylo9e1fcwI8Hz6OXrvxqsBMeaJ.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "sis_course_id": "CCRSDGM-370R-33168.202020",
+    "integration_id": null,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "unpublished",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 336091,
+    "name": "DGM-497R-I01",
+    "account_id": 657,
+    "uuid": "fYJkvgE6kzb6ww4KLpIZeiC6lVPEQwQUnlah8WQD",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2014-04-18T20:08:44Z",
+    "course_code": "DGM-497R",
+    "default_view": "feed",
+    "root_account_id": 16,
+    "enrollment_term_id": 461,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_fYJkvgE6kzb6ww4KLpIZeiC6lVPEQwQUnlah8WQD.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "unpublished",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 294678,
+    "name": "DGM-497R-I01",
+    "account_id": 657,
+    "uuid": "0SrmiGyrgxtKVFc1uWFWu4cyeJyfw2UZTk5ijuwC",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2013-11-12T23:58:03Z",
+    "course_code": "DGM-497R",
+    "default_view": "feed",
+    "root_account_id": 16,
+    "enrollment_term_id": 291,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_0SrmiGyrgxtKVFc1uWFWu4cyeJyfw2UZTk5ijuwC.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "unpublished",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 409957,
+    "name": "DGM-497R-I01",
+    "account_id": 657,
+    "uuid": "Bhvfuw0tkpTKSdDAnsSUOwRzRalUMMPfJVhIrG5Z",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2016-04-26T23:00:52Z",
+    "course_code": "DGM-497R",
+    "default_view": "feed",
+    "root_account_id": 16,
+    "enrollment_term_id": 465,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_Bhvfuw0tkpTKSdDAnsSUOwRzRalUMMPfJVhIrG5Z.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "unpublished",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 379960,
+    "name": "DGM-497R-I03",
+    "account_id": 657,
+    "uuid": "nJuaQmG7caxKtgGhn2J3Y2S1DFkRCx1XjDMR5lEn",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2015-06-18T19:35:40Z",
+    "course_code": "DGM-497R",
+    "default_view": "feed",
+    "root_account_id": 16,
+    "enrollment_term_id": 464,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_nJuaQmG7caxKtgGhn2J3Y2S1DFkRCx1XjDMR5lEn.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "unpublished",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 473852,
+    "name": "DGM-1600-001 | Spring 2019",
+    "account_id": 657,
+    "uuid": "bjQw59awZMQ35KSPowj35ytV66icSFTvAHUc4C8T",
+    "start_at": "2019-01-08T01:01:00Z",
+    "grading_standard_id": null,
+    "is_public": false,
+    "created_at": "2018-09-24T17:24:42Z",
+    "course_code": "DGM-1600-001 | Spring 2019",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 735,
+    "license": "private",
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_bjQw59awZMQ35KSPowj35ytV66icSFTvAHUc4C8T.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 494591,
+    "name": "DGM-1600-001 | Spring 2020",
+    "account_id": 657,
+    "uuid": "GXf3FY3DjkaacJiV84yQOLNqqLVaIqVDlvUaEvja",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2019-10-07T15:19:47Z",
+    "course_code": "DGM-1600-001 | Spring 2020",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 466,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_GXf3FY3DjkaacJiV84yQOLNqqLVaIqVDlvUaEvja.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "sis_course_id": "CCRSDGM-1600-27419.202020",
+    "integration_id": null,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "unpublished",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 475963,
+    "name": "DGM-1600-002 | Spring 2019",
+    "account_id": 657,
+    "uuid": "jZKWrN2oBJnlVGI9UDBsfZubjIvrNW1PwtrzFUHG",
+    "start_at": "2019-01-08T00:53:59Z",
+    "grading_standard_id": null,
+    "is_public": false,
+    "created_at": "2018-09-24T17:26:48Z",
+    "course_code": "DGM-1600-002 | Spring 2019",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 735,
+    "license": "private",
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_jZKWrN2oBJnlVGI9UDBsfZubjIvrNW1PwtrzFUHG.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 494805,
+    "name": "DGM-1600-002 | Spring 2020",
+    "account_id": 657,
+    "uuid": "TC4eEjbuaZ8N2dVIOcTdLAlCRpkTzkP0KbmuLBCE",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2019-10-07T15:20:00Z",
+    "course_code": "DGM-1600-002 | Spring 2020",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 466,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_TC4eEjbuaZ8N2dVIOcTdLAlCRpkTzkP0KbmuLBCE.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "sis_course_id": "CCRSDGM-1600-27864.202020",
+    "integration_id": null,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "unpublished",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 400573,
+    "name": "DGM-1600-004",
+    "account_id": 657,
+    "uuid": "hBYvJPydI7p1RuUYNAtDjU9FsX9Kfhd9yiDg1o1p",
+    "start_at": null,
+    "grading_standard_id": 0,
+    "is_public": false,
+    "created_at": "2016-01-28T17:03:48Z",
+    "course_code": "DGM-1600",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 464,
+    "license": "private",
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_hBYvJPydI7p1RuUYNAtDjU9FsX9Kfhd9yiDg1o1p.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 463349,
+    "name": "DGM-1600-004 | Fall 2018",
+    "account_id": 657,
+    "uuid": "XLTFxxBaYI4VvPGuwr3Iu6wUGXNFDrUJZyaJ2Xs9",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": false,
+    "created_at": "2017-12-06T00:35:36Z",
+    "course_code": "DGM-1600-004 | Fall 2018",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 734,
+    "license": "private",
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_XLTFxxBaYI4VvPGuwr3Iu6wUGXNFDrUJZyaJ2Xs9.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "course_format": "on_campus",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 486804,
+    "name": "DGM-1600-004 | Fall 2019",
+    "account_id": 657,
+    "uuid": "h5STfUwrnlyHHnoLNIlKCTQEcgmglFuYFhgFad0W",
+    "start_at": "2019-08-20T15:37:49Z",
+    "grading_standard_id": null,
+    "is_public": false,
+    "created_at": "2019-04-15T18:36:46Z",
+    "course_code": "DGM-1600-004 | Fall 2019",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 297,
+    "license": "private",
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_h5STfUwrnlyHHnoLNIlKCTQEcgmglFuYFhgFad0W.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false,
+    "overridden_course_visibility": ""
+  },
+  {
+    "id": 463348,
+    "name": "DGM-1600-005 | Fall 2018",
+    "account_id": 657,
+    "uuid": "k8VuEkFwAcVsAE6VOTtG0CLePp5kuChxd7ChWyfI",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": false,
+    "created_at": "2017-12-06T00:35:34Z",
+    "course_code": "DGM-1600-005 | Fall 2018",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 734,
+    "license": "private",
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_k8VuEkFwAcVsAE6VOTtG0CLePp5kuChxd7ChWyfI.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 486802,
+    "name": "DGM-1600-005 | Fall 2019",
+    "account_id": 657,
+    "uuid": "lcTYz0d6DjpAvy9bwV4bpEMHFgdfR4Xtq6f4Up7r",
+    "start_at": "2019-08-20T17:24:18Z",
+    "grading_standard_id": null,
+    "is_public": false,
+    "created_at": "2019-04-15T18:36:46Z",
+    "course_code": "DGM-1600-005 | Fall 2019",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 297,
+    "license": "private",
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_lcTYz0d6DjpAvy9bwV4bpEMHFgdfR4Xtq6f4Up7r.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false,
+    "overridden_course_visibility": ""
+  },
+  {
+    "id": 220678,
+    "name": "DGM-2120-001",
+    "account_id": 657,
+    "uuid": "9mM5BdyzfzHrZ6r5fzw37yI4qEAWuH9HpnqHxc0h",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": false,
+    "created_at": "2013-01-08T15:19:39Z",
+    "course_code": "DGM-2120",
+    "default_view": "wiki",
+    "root_account_id": 16,
+    "enrollment_term_id": 78,
+    "license": "private",
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_9mM5BdyzfzHrZ6r5fzw37yI4qEAWuH9HpnqHxc0h.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 93549,
+    "name": "DGM-2120-002",
+    "account_id": 657,
+    "uuid": "8YRk6NEFrcIccF3YunAU5Qpx3Ciahbye9F5ENSiv",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2011-11-18T23:21:29Z",
+    "course_code": "DGM-2120",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 79,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_8YRk6NEFrcIccF3YunAU5Qpx3Ciahbye9F5ENSiv.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 47793,
+    "name": "DGM-2120-X01-001-002-601-Fall 2011-XLIST",
+    "account_id": 657,
+    "uuid": "mFNyTnyI9O8aVGCvdL2ndSObuUFXTmfRASUpgF37",
+    "start_at": null,
+    "grading_standard_id": 0,
+    "is_public": false,
+    "created_at": "2011-08-10T15:30:50Z",
+    "course_code": "DGM-2120-X01-001-002-601-Fall 2011-XLIST",
+    "default_view": "assignments",
+    "root_account_id": 16,
+    "enrollment_term_id": 55,
+    "license": "cc_by_nc_nd",
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_mFNyTnyI9O8aVGCvdL2ndSObuUFXTmfRASUpgF37.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 297865,
+    "name": "DGM-2210-601",
+    "account_id": 657,
+    "uuid": "XGAHXgvpjpf05fNEU6D6jjR2PCxMW3Y8qk4DhMx4",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": false,
+    "created_at": "2013-11-20T23:30:10Z",
+    "course_code": "DGM-2210",
+    "default_view": "feed",
+    "root_account_id": 16,
+    "enrollment_term_id": 460,
+    "license": "private",
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_XGAHXgvpjpf05fNEU6D6jjR2PCxMW3Y8qk4DhMx4.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "ta",
+        "role": "TaEnrollment",
+        "role_id": 270,
+        "user_id": 332379,
+        "enrollment_state": "invited",
+        "limit_privileges_to_course_section": false
+      },
+      {
+        "type": "teacher",
+        "role": "Faculty Mentor",
+        "role_id": 279,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 87813,
+    "name": "DGM-2760-001",
+    "account_id": 657,
+    "uuid": "2wcpdV5RqNrXF4Iy5jAmarVEJxKoclwrucyYad8C",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2011-11-10T03:59:05Z",
+    "course_code": "DGM-2760",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 76,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_2wcpdV5RqNrXF4Iy5jAmarVEJxKoclwrucyYad8C.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 35603,
+    "name": "DGM-2760-001",
+    "account_id": 657,
+    "uuid": "02bb9ac418bdcd19108eb41eefe847ac7b3aecd7",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": false,
+    "created_at": "2011-07-06T21:46:56Z",
+    "course_code": "DGM-2760",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 55,
+    "license": "private",
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_02bb9ac418bdcd19108eb41eefe847ac7b3aecd7.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 59736,
+    "name": "DGM-2760-001",
+    "account_id": 657,
+    "uuid": "Nd2qOWXIGVXNqGUodBjTqGCzBn4xplGk5BgOLyZR",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2011-10-06T17:33:01Z",
+    "course_code": "DGM-2760",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 79,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_Nd2qOWXIGVXNqGUodBjTqGCzBn4xplGk5BgOLyZR.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 213904,
+    "name": "DGM-2760-001",
+    "account_id": 657,
+    "uuid": "K1ZBDyk4ato07ymCk61HPvGG9YFwX2cHGWAy9ikI",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2012-12-03T17:26:25Z",
+    "course_code": "DGM-2760",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 78,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_K1ZBDyk4ato07ymCk61HPvGG9YFwX2cHGWAy9ikI.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 264601,
+    "name": "DGM-2760-001",
+    "account_id": 657,
+    "uuid": "hWhsL8GVSvPyvY0DpxNVaWABlxp910wkAXMYD8n3",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2013-07-16T15:38:42Z",
+    "course_code": "DGM-2760",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 290,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_hWhsL8GVSvPyvY0DpxNVaWABlxp910wkAXMYD8n3.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": true
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 35558,
+    "name": "DGM-2760-X01",
+    "account_id": 657,
+    "uuid": "34df44da553e78288ba6f8f3aa99e6f9df1bbab8",
+    "start_at": "2011-08-29T06:00:00Z",
+    "grading_standard_id": null,
+    "is_public": false,
+    "created_at": "2011-07-06T21:46:45Z",
+    "course_code": "DGM-2760",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 55,
+    "license": "private",
+    "grade_passback_setting": null,
+    "end_at": "2011-12-20T06:55:00Z",
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_34df44da553e78288ba6f8f3aa99e6f9df1bbab8.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 458889,
+    "name": "DGM-2760-X01 | Fall 2018",
+    "account_id": 657,
+    "uuid": "k9L8O3ssbjJC4dhN21lImkxIib0CLoxihwYWZ7U9",
+    "start_at": null,
+    "grading_standard_id": 0,
+    "is_public": false,
+    "created_at": "2017-12-05T23:07:03Z",
+    "course_code": "DGM-2760-X01 | Fall 2018",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 734,
+    "license": "private",
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_k9L8O3ssbjJC4dhN21lImkxIib0CLoxihwYWZ7U9.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 484182,
+    "name": "DGM-2760-X01 | Fall 2019",
+    "account_id": 657,
+    "uuid": "QFQd2v8DHi0XtXg6NezaWqlWDGnw3vP0UUMrLtmj",
+    "start_at": "2019-08-19T14:11:09Z",
+    "grading_standard_id": 0,
+    "is_public": false,
+    "created_at": "2019-04-15T18:33:54Z",
+    "course_code": "DGM-2760-X01 | Fall 2019",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 297,
+    "license": "private",
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_QFQd2v8DHi0XtXg6NezaWqlWDGnw3vP0UUMrLtmj.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false,
+    "overridden_course_visibility": ""
+  },
+  {
+    "id": 474216,
+    "name": "DGM-2760-X01 | Spring 2019",
+    "account_id": 657,
+    "uuid": "73sgrJIYJSTio9EfXLpAIg8JRbQyrIzePp8wlDdo",
+    "start_at": "2019-01-05T18:03:28Z",
+    "grading_standard_id": 0,
+    "is_public": false,
+    "created_at": "2018-09-24T17:25:04Z",
+    "course_code": "DGM-2760-X01 | Spring 2019",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 735,
+    "license": "private",
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_73sgrJIYJSTio9EfXLpAIg8JRbQyrIzePp8wlDdo.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 492850,
+    "name": "DGM-2760-X01 | Spring 2020",
+    "account_id": 657,
+    "uuid": "TDRuMCTl0P5ezUGDIlMizwK0HRXgLsdRMZ0541Wn",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2019-10-07T15:18:00Z",
+    "course_code": "DGM-2760-X01 | Spring 2020",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 466,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_TDRuMCTl0P5ezUGDIlMizwK0HRXgLsdRMZ0541Wn.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "sis_course_id": "CCRSDGM-2760-30405.202020",
+    "integration_id": null,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "unpublished",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 87770,
+    "name": "DGM-2760-X01-Hansen-FALL 2012",
+    "account_id": 657,
+    "uuid": "3md4f2fYQfVLA2KM2F17Xef0biFaCXuXjhA8emQa",
+    "start_at": null,
+    "grading_standard_id": 3977,
+    "is_public": false,
+    "created_at": "2011-11-10T03:48:39Z",
+    "course_code": "DGM-2760-X01-Hansen-FALL 2012",
+    "default_view": "wiki",
+    "root_account_id": 16,
+    "enrollment_term_id": 76,
+    "license": "private",
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_3md4f2fYQfVLA2KM2F17Xef0biFaCXuXjhA8emQa.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 301245,
+    "name": "DGM-3660-001",
+    "account_id": 657,
+    "uuid": "ez9ok3wgoQsYPXwVnrwOGOTPlYR1uBTPzQKQhsw7",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": false,
+    "created_at": "2013-11-21T01:17:33Z",
+    "course_code": "DGM-3660",
+    "default_view": "feed",
+    "root_account_id": 16,
+    "enrollment_term_id": 460,
+    "license": "private",
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_ez9ok3wgoQsYPXwVnrwOGOTPlYR1uBTPzQKQhsw7.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "Faculty Mentor",
+        "role_id": 279,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      },
+      {
+        "type": "ta",
+        "role": "TaEnrollment",
+        "role_id": 270,
+        "user_id": 332379,
+        "enrollment_state": "invited",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 39635,
+    "name": "DGM-3760-001",
+    "account_id": 657,
+    "uuid": "d4baa6264112bfce7f3f176df3f6c488d8318c6a",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2011-07-06T22:03:37Z",
+    "course_code": "DGM-3760",
+    "default_view": "feed",
+    "root_account_id": 16,
+    "enrollment_term_id": 55,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_d4baa6264112bfce7f3f176df3f6c488d8318c6a.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 59741,
+    "name": "DGM-3760-001",
+    "account_id": 657,
+    "uuid": "HqAUCCHY9P61OhybFrogFwgkTs0DZ3IMaZoWbQIs",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2011-10-06T17:35:01Z",
+    "course_code": "DGM-3760",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 79,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_HqAUCCHY9P61OhybFrogFwgkTs0DZ3IMaZoWbQIs.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 391648,
+    "name": "DGM-3760-601",
+    "account_id": 657,
+    "uuid": "HrmSPFTF8brJjmmmlhXJ52yfLRmvRbiKd8wWok8v",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2015-11-11T16:07:42Z",
+    "course_code": "DGM-3760",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 464,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_HrmSPFTF8brJjmmmlhXJ52yfLRmvRbiKd8wWok8v.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 211573,
+    "name": "DGM-3760-X01-Liu-SPRING 2013",
+    "account_id": 657,
+    "uuid": "palsuOhaXBY1nSlYcj0YFUTFajUBm82xPWLOVpDp",
+    "start_at": null,
+    "grading_standard_id": 0,
+    "is_public": false,
+    "created_at": "2012-12-03T17:21:21Z",
+    "course_code": "DGM-3760-X01-Liu-SPRING 2013",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 78,
+    "license": "private",
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_palsuOhaXBY1nSlYcj0YFUTFajUBm82xPWLOVpDp.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 374820,
+    "name": "DGM-3780-001",
+    "account_id": 657,
+    "uuid": "yXfny5kcQb1SmtJPml1ZtWmVh8MS17VfjJBB7O2R",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2015-06-18T17:48:34Z",
+    "course_code": "DGM-3780",
+    "default_view": "assignments",
+    "root_account_id": 16,
+    "enrollment_term_id": 464,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_yXfny5kcQb1SmtJPml1ZtWmVh8MS17VfjJBB7O2R.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 35950,
+    "name": "DGM-3790-001",
+    "account_id": 657,
+    "uuid": "d2e17d869d0bf5ceb079e48ee4020a6df03977e1",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2011-07-06T21:48:20Z",
+    "course_code": "DGM-3790",
+    "default_view": "feed",
+    "root_account_id": 16,
+    "enrollment_term_id": 55,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_d2e17d869d0bf5ceb079e48ee4020a6df03977e1.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 88489,
+    "name": "DGM-3790-001",
+    "account_id": 657,
+    "uuid": "c0VQ9sUenFVP8oTm5u4p5vgZ561VAvpAfIyNfOsM",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2011-11-10T05:06:35Z",
+    "course_code": "DGM-3790",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 76,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_c0VQ9sUenFVP8oTm5u4p5vgZ561VAvpAfIyNfOsM.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      },
+      {
+        "type": "student",
+        "role": "StudentEnrollment",
+        "role_id": 268,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 261435,
+    "name": "DGM-3790-001",
+    "account_id": 657,
+    "uuid": "3rQS7fcaoC3yfGZ6eOhDaRiO12FFQjmRMqyJ3KLE",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2013-07-16T15:34:23Z",
+    "course_code": "DGM-3790",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 290,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_3rQS7fcaoC3yfGZ6eOhDaRiO12FFQjmRMqyJ3KLE.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 298697,
+    "name": "DGM-3790-001",
+    "account_id": 657,
+    "uuid": "7uSKnBSqYTsmqdTy7oi71WpchFqFFhkxtShVu1ZN",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2013-11-20T23:59:33Z",
+    "course_code": "DGM-3790",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 460,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_7uSKnBSqYTsmqdTy7oi71WpchFqFFhkxtShVu1ZN.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 467701,
+    "name": "DGM-3790-001 | Fall 2018",
+    "account_id": 657,
+    "uuid": "jJHHMewyXb4YoZObCidd7M3o7mLl7mIe12g8mbIV",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2018-03-28T16:03:38Z",
+    "course_code": "DGM-3790-001 | Fall 2018",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 734,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_jJHHMewyXb4YoZObCidd7M3o7mLl7mIe12g8mbIV.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 483000,
+    "name": "DGM-3790-001 | Fall 2019",
+    "account_id": 657,
+    "uuid": "uplsIhJ2zR6vhmUuHGHn9WoeExaVOzQN0uK10DJU",
+    "start_at": "2019-08-19T20:12:35Z",
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2019-04-04T16:54:56Z",
+    "course_code": "DGM-3790-001 | Fall 2019",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 297,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_uplsIhJ2zR6vhmUuHGHn9WoeExaVOzQN0uK10DJU.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false,
+    "overridden_course_visibility": ""
+  },
+  {
+    "id": 377996,
+    "name": "DGM-4410-601",
+    "account_id": 657,
+    "uuid": "jbF9eOtfuxIq6TWQ64QsXMSdlQBXvKDoCbZz3icB",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2015-06-18T18:55:55Z",
+    "course_code": "DGM-4410",
+    "default_view": "feed",
+    "root_account_id": 16,
+    "enrollment_term_id": 464,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_jbF9eOtfuxIq6TWQ64QsXMSdlQBXvKDoCbZz3icB.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 58911,
+    "name": "DGM-4790-001",
+    "account_id": 657,
+    "uuid": "UQXYvMfzDmABNtZ5z6ETNYoIA36FQ2xgAnkr41Lt",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2011-09-29T14:41:47Z",
+    "course_code": "DGM-4790",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 79,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_UQXYvMfzDmABNtZ5z6ETNYoIA36FQ2xgAnkr41Lt.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 256708,
+    "name": "DGM-4790-001",
+    "account_id": 657,
+    "uuid": "GR3Jd7lPcMYLS7LIRPuqNiaOef4IOK52uXkPQ5wG",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2013-06-12T22:52:24Z",
+    "course_code": "DGM-4790",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 291,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_GR3Jd7lPcMYLS7LIRPuqNiaOef4IOK52uXkPQ5wG.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 213025,
+    "name": "DGM-4790-001",
+    "account_id": 657,
+    "uuid": "TIfY1eVV07jSmBFXPKliAVTGjFT3SqLMTkCX1aZn",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2012-12-03T17:24:35Z",
+    "course_code": "DGM-4790",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 78,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_TIfY1eVV07jSmBFXPKliAVTGjFT3SqLMTkCX1aZn.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 335187,
+    "name": "DGM-4790-001",
+    "account_id": 657,
+    "uuid": "cvIlmIusH3RFvvrnY2X2pjkUdtqjRzcSBt3oMkgh",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2014-04-18T19:22:43Z",
+    "course_code": "DGM-4790",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 461,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_cvIlmIusH3RFvvrnY2X2pjkUdtqjRzcSBt3oMkgh.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 476829,
+    "name": "DGM-4790-001 | Spring 2019",
+    "account_id": 657,
+    "uuid": "HW1bZ5R3bRVqdwlI8VgwRlmnuW3G4Fuu8sJAa05m",
+    "start_at": "2019-01-07T00:34:31Z",
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2018-10-31T17:18:58Z",
+    "course_code": "DGM-4790-001 | Spring 2019",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 735,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_HW1bZ5R3bRVqdwlI8VgwRlmnuW3G4Fuu8sJAa05m.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 493554,
+    "name": "DGM-4790-001 | Spring 2020",
+    "account_id": 657,
+    "uuid": "zJ3EmezflWK7Mcvo5qBEpCMAflhHJyDueIzv2n9n",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2019-10-07T15:18:43Z",
+    "course_code": "DGM-4790-001 | Spring 2020",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 466,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_zJ3EmezflWK7Mcvo5qBEpCMAflhHJyDueIzv2n9n.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "sis_course_id": "CCRSDGM-4790-31533.202020",
+    "integration_id": null,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "unpublished",
+    "restrict_enrollments_to_course_dates": false
+  },
+  {
+    "id": 416754,
+    "name": "IG_DGM-3780-001-ThorAnderson-Spring_2016",
+    "account_id": 657,
+    "uuid": "7ueyAtQqWFPzibvvcOXplYFVGzxiMwNz40RIQpOa",
+    "start_at": "2016-05-25T06:00:00Z",
+    "grading_standard_id": null,
+    "is_public": false,
+    "created_at": "2016-05-25T16:44:52Z",
+    "course_code": "IG_DGM-3780-001-ThorAnderson-Spring_2016",
+    "default_view": "assignments",
+    "root_account_id": 16,
+    "enrollment_term_id": 606,
+    "license": "private",
+    "grade_passback_setting": null,
+    "end_at": "2016-08-16T06:00:00Z",
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_7ueyAtQqWFPzibvvcOXplYFVGzxiMwNz40RIQpOa.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "sis_course_id": "IG_DGM-3780-001-ThorAnderson-Spring_2016",
+    "integration_id": null,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": true
+  },
+  {
+    "id": 45075,
+    "name": "MIG_DGM_2760_IN_Hansen/Anderson",
+    "account_id": 16,
+    "uuid": "22533b49af9352693ae25f133151c60984ac048d",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": null,
+    "created_at": "2011-07-19T21:26:59Z",
+    "course_code": "dgm-2760",
+    "default_view": "modules",
+    "root_account_id": 16,
+    "enrollment_term_id": 44,
+    "license": null,
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 200000,
+    "is_public_to_auth_users": false,
+    "apply_assignment_group_weights": true,
+    "calendar": {
+      "ics": "https://uvu.instructure.com/feeds/calendars/course_22533b49af9352693ae25f133151c60984ac048d.ics"
+    },
+    "time_zone": "America/Denver",
+    "blueprint": false,
+    "enrollments": [
+      {
+        "type": "teacher",
+        "role": "TeacherEnrollment",
+        "role_id": 269,
+        "user_id": 332379,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": false
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "unpublished",
+    "restrict_enrollments_to_course_dates": false
+  }
+]

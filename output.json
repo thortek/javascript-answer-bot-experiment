@@ -1,0 +1,97 @@
+[
+  {
+    "user_id": 1857035,
+    "updated_at": "2019-11-01T13:21:46Z",
+    "message": "It was hard for me to grasp the ‘for’ statement."
+  },
+  {
+    "user_id": 1857035,
+    "updated_at": "2019-11-01T13:21:45Z",
+    "message": "It was hard for me to grasp the ‘for’ statement."
+  },
+  {
+    "user_id": 1845097,
+    "updated_at": "2019-10-31T05:16:57Z",
+    "message": "I am stuggling with coming up with code solutions in the quizzes...I often have to look at the hint & solution before understanding.  I feel like I need some flash cards..."
+  },
+  {
+    "user_id": 1310229,
+    "updated_at": "2019-10-29T23:28:41Z",
+    "message": "I am still figuring everything out, but I will let you know. I know for are supposed to run until the condition has been met."
+  },
+  {
+    "user_id": 1615747,
+    "updated_at": "2019-10-29T20:39:10Z",
+    "message": "If I'm making a production level website using an API, would it be better to download the JSON that I'm using locally?"
+  },
+  {
+    "user_id": 1566275,
+    "updated_at": "2019-10-29T17:49:45Z",
+    "message": "Having a hard time with 'for' and loops in general"
+  },
+  {
+    "user_id": 1553208,
+    "updated_at": "2019-10-29T16:04:05Z",
+    "message": "I had a hard time understanding the for in statements"
+  },
+  {
+    "user_id": 1842308,
+    "updated_at": "2019-10-29T15:28:51Z",
+    "message": "For loops are my nemesis. I struggled a little bit with the Iterate Through the Keys of an Object with a for...in Statement."
+  },
+  {
+    "user_id": 1627287,
+    "updated_at": "2019-10-29T13:45:20Z",
+    "message": "I didn't quite understand for...in statements, could we go over them in class? Other than that I understand the rest of the section"
+  },
+  {
+    "user_id": 1832023,
+    "updated_at": "2019-10-29T13:41:48Z",
+    "message": "I am along with the other people of trying to figure out the for.. in statements. I can get it after a while but I am still having a challenge trying to understand it fully."
+  },
+  {
+    "user_id": 1768675,
+    "updated_at": "2019-10-29T05:37:40Z",
+    "message": "I am having a hard time understanding the for.. in statements. Also, why would we use these rather than the original array system we've been using in the first place? It seems like a more drawn-out process."
+  },
+  {
+    "user_id": 1587940,
+    "updated_at": "2019-10-29T02:31:24Z",
+    "message": "I also had a difficult time understanding the for..in statement."
+  },
+  {
+    "user_id": 1825563,
+    "updated_at": "2019-10-28T21:57:48Z",
+    "message": "What is the advantage of making an array a multi demsional array? Why put part of the array deeper and deeper using more [] brackets?"
+  },
+  {
+    "user_id": 1445535,
+    "updated_at": "2019-10-28T21:24:52Z",
+    "message": "I feel like I can't pinpoint what i'm not understanding.. not understanding  'for'... I think.."
+  },
+  {
+    "user_id": 1799990,
+    "updated_at": "2019-10-28T19:16:28Z",
+    "message": "I don't fully understand for...in"
+  },
+  {
+    "user_id": 1109193,
+    "updated_at": "2019-10-28T19:15:33Z",
+    "message": "I also had a difficult time with Iterate Through the Keys of an Object with a for...in Statement."
+  },
+  {
+    "user_id": 540521,
+    "updated_at": "2019-10-28T18:50:43Z",
+    "message": "Could not figure out Iterate Through the Keys of an Object with a for...in Statement. The for...in statements are confusing."
+  },
+  {
+    "user_id": 811740,
+    "updated_at": "2019-10-28T16:01:27Z",
+    "message": "What is the end condition in a for...in loop?"
+  },
+  {
+    "user_id": 1876582,
+    "updated_at": "2019-10-28T06:55:37Z",
+    "message": "Could you use a for...in loop in place of the standard for loop to iterate non-object arrays? Doing something like  (let i = 0; i < arr.length; i++) feels kind of clunky..."
+  }
+]

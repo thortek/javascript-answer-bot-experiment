@@ -1,0 +1,25 @@
+{
+  "name": "jabe",
+  "version": "1.0.0",
+  "description": "JavaScript Answer Bot Experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "ts-node index.ts",
+    "debug": "ts-node index.ts"
+  },
+  "author": "Thor Anderson",
+  "license": "ISC",
+  "dependencies": {
+    "@types/string-strip-html": "^4.3.0",
+    "axios": "^0.19.0",
+    "dotenv": "^8.2.0",
+    "graphql-request": "^1.8.2",
+    "string-strip-html": "^4.3.12"
+  },
+  "devDependencies": {
+    "@types/node": "^13.1.1",
+    "ts-node-dev": "^1.0.0-pre.44",
+    "typescript": "^3.7.4"
+  }
+}
