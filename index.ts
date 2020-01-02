@@ -158,11 +158,17 @@ async function main() {
   //console.log(select_forums?.flat().length, select_forums?.flat())
 
   const select_entries = await getEntriesByForumIDs(select_forums?.flat())
-  console.log(select_entries?.flat())
+  const small_entries = select_entries?.flatMap((entry: any) => {
+    return {
+      user_id: entry.user_id,
+      updated_at: entry.updated_at,
+      message: stringStripHtml(entry.message)
+    }
+  })
   try {
           fs.appendFile(
-            'selectEntries.json',
-            JSON.stringify(select_entries?.flat()),
+            'small_entries.json',
+            JSON.stringify(small_entries),
             err => {
               if (err) throw err
               console.log('The file has been saved!')
