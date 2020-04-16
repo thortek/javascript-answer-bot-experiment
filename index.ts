@@ -107,11 +107,11 @@ async function getDiscussionForumIDArray(courseIDs: any) {
 async function getEntriesByForumIDs(forumIDs: any) {
   try {
     return Promise.all(
-    forumIDs.map(async ({ course_id, forum_id }: any) => {
+    forumIDs.map(async (item : any) => {
      const topicsArray = await getCanvasData(
-        `/api/v1/courses/${course_id}/discussion_topics/${forum_id}/entries?per_page=100`
-      )
-        return topicsArray?.data
+       `/api/v1/courses/${item.course_id}/discussion_topics/${item.forum_id}/entries?per_page=100`
+     )
+     return topicsArray?.data
     })
     )
   } catch (error) {
@@ -150,24 +150,58 @@ async function getEntriesByForumIDs(forumIDs: any) {
       } */
 
 async function main() {
-  const select_courses = await getCourseIDs()
-  console.log(select_courses.length, select_courses.flat())
+  //let select_forums: [] = []
+  let entries_file: [] = []
+  //const select_courses = await getCourseIDs()
+  //console.log(select_courses.length, select_courses.flat())
 
-  const select_forums = await getDiscussionForumIDArray(select_courses)
+  //const select_forums = await getDiscussionForumIDArray(select_courses)
+
+/*    try {
+    const forums_file = fs.readFileSync('select_forums.json', 'utf8')
+    select_forums = JSON.parse(forums_file)
+   } catch (error) {
+     console.error(error)
+   }
+
+   console.log(select_forums.flat().length) */
+
+/* const select_entries = await getEntriesByForumIDs(select_forums.flat().slice(90))
+
+   try {
+     fs.appendFile(
+       'select_entries.json',
+       JSON.stringify(select_entries),
+       err => {
+         if (err) throw err
+         console.log('The file has been saved!')
+       }
+     )
+   } catch (error) {
+     console.error(error)
+   } */
   
   //console.log(select_forums?.flat().length, select_forums?.flat())
 
-  const select_entries = await getEntriesByForumIDs(select_forums?.flat())
-  const small_entries = select_entries?.flatMap((entry: any) => {
-    return {
-      user_id: entry.user_id,
-      updated_at: entry.updated_at,
-      message: stringStripHtml(entry.message)
-    }
-  })
+  //const select_entries = await getEntriesByForumIDs(select_forums?.flat())
+
   try {
+    const select_entries = fs.readFileSync('select_entries.json', 'utf8')
+    entries_file = JSON.parse(select_entries)
+  } catch (error) {
+    console.error(error)
+  }
+const small_entries = entries_file?.flatMap((entry: any) => {
+     return {
+       //user_id: entry.user_id,
+       //updated_at: entry.updated_at,
+       message: stringStripHtml(entry.message)
+     }
+   })
+
+   try {
           fs.appendFile(
-            'small_entries.json',
+            'forum_questions.json',
             JSON.stringify(small_entries),
             err => {
               if (err) throw err
