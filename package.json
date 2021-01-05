@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/string-strip-html": "^4.3.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "graphql-request": "^1.8.2",
     "string-strip-html": "^4.3.12"
